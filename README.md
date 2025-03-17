@@ -6,3 +6,6 @@ This folder contains the trained **Fake News Detection Model**, stored in Google
 ## Model Details
 - **Architecture**: Uses ML models (Logistic Regression, Naive Bayes, SVM) and DL models (LSTM, CNN).
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score.
+
+## APP
+https://fake-news-detector-by-auranoura.streamlit.app/ 
